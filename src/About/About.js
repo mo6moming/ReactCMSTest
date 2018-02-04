@@ -4,6 +4,6 @@ var createReactClass = require('create-react-class');
 
 export default createReactClass({
   render() {
-    return <div>About</div>
+    return <div>About 2</div>
   }
 })
