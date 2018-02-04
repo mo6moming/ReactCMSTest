@@ -1,0 +1,3 @@
+#leftmain, #rightmain {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
+#leftmain { background: blue;}
+#rightmain {background: yellow;}
