@@ -18,9 +18,3 @@ collections:
         - {label: "Body", name: "body", widget: "string"}
         - {label: "Slug", name: "slug", widget: "string" }
         - {label: "Layout", name: "layout", widget: "hidden", default: "productdetails"}
-
-exclude:
- - admin/admin.js
- - webpack.config.js
- - package.json
- - README.md

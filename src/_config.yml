@@ -1,0 +1,21 @@
+# Site settings
+title: Jekyll shop powered by Snipcart
+#email: geeks@snipcart.com
+description: Here's a quick demo showing the integration between Snipcart and Jekyll. We hope you like it!
+url: "youthful-hopper-eae8b4.netlify.com"
+#twitter_username: Snipcart
+github_username:  mo6moming
+api_key: YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0
+
+# Build settings
+markdown: kramdown
+collections:
+  products:
+    output: true
+
+exclude:
+  - node_modules
+  - admin/admin.js
+  - webpack.config.js
+  - package.json
+  - README.md
