@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "netlify-cms": "^1.1.0",
     "react": "^16.2.0",
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.2.0",
@@ -34,7 +35,6 @@
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.11.1"
   },
-
   "dev": "webpack && jekyll serve",
-    "build": "webpack && jekyll build"
+  "build": "webpack && jekyll build"
 }
